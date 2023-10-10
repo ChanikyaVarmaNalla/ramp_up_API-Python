@@ -1,0 +1,14 @@
+This is a sample document.
+Start
+This is the first sequence.
+This is some text in between.
+End
+
+Start
+Here is the second sequence.
+It may contain multiple lines.
+End
+
+Start
+Another sequence starts here.
+End

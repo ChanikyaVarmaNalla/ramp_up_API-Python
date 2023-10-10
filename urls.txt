@@ -1,0 +1,9 @@
+Here are some sample URLs:
+http://www.example.com
+https://example.org
+ftp://ftp.example.net
+www.google.com
+Visit our website at www.example-site.com
+Check out our blog: https://blog.example-site.com
+Download the file from: ftp://files.example-site.com/somefile.zip
+Explore our wiki: https://wiki.example.org/page1

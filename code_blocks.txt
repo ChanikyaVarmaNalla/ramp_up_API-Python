@@ -1,0 +1,13 @@
+# Python code block
+def add(a, b):
+    return a + b
+
+# Java code block
+public int multiply(int x, int y) {
+    return x * y;
+}
+
+// C++ code block
+float subtract(int x, int y) {
+    return x - y;
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "book_name": "Updated Book",
+        "author": "Updated Author"
+    },
+    {
+        "id": 2,
+        "book_name": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "id": 3,
+        "book_name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 4,
+        "book_name": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "id": 5,
+        "book_name": "The Catcher in the Rye",
+        "author": "J.D. Salinger"
+    }
+]
