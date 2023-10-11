@@ -27,7 +27,7 @@ def main():
 
         play_again = input("Do you want to play again? (y/n): ")
         if play_again.lower() != "y":
-            print("Thank You for playing!")
+            print("Thank You for playing the Guessing Game!")
             break
 
 def get_range():
