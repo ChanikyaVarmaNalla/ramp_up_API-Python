@@ -1,0 +1,38 @@
+[
+    {
+        "user_id": "U001",
+        "name": "New User",
+        "borrow_history": [
+            {
+                "title": "The Dark Side of the Moon",
+                "item_id": "V003"
+            },
+            {
+                "title": "The Catcher in the Rye",
+                "item_id": "B004"
+            }
+        ]
+    },
+    {
+        "user_id": "U002",
+        "name": "New User",
+        "borrow_history": [
+            {
+                "title": "1984",
+                "item_id": "B002"
+            },
+            {
+                "title": "The Economist",
+                "item_id": "M005"
+            },
+            {
+                "title": "The Dark Side of the Moon",
+                "item_id": "V003"
+            },
+            {
+                "title": "Thriller",
+                "item_id": "V001"
+            }
+        ]
+    }
+]

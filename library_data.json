@@ -1,0 +1,83 @@
+{
+    "books": [
+        {
+            "id": "B001",
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee"
+        },
+        {
+            "id": "B002",
+            "title": "1984",
+            "author": "George Orwell"
+        },
+        {
+            "id": "B003",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald"
+        },
+        {
+            "id": "B004",
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger"
+        },
+        {
+            "id": "B005",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen"
+        }
+    ],
+    "magazines": [
+        {
+            "id": "M001",
+            "title": "National Geographic",
+            "publisher": "National Geographic Society"
+        },
+        {
+            "id": "M002",
+            "title": "Time",
+            "publisher": "Time USA, LLC"
+        },
+        {
+            "id": "M003",
+            "title": "Vogue",
+            "publisher": "Condé Nast"
+        },
+        {
+            "id": "M004",
+            "title": "Wired",
+            "publisher": "Condé Nast"
+        },
+        {
+            "id": "M005",
+            "title": "The Economist",
+            "publisher": "The Economist Newspaper Limited"
+        }
+    ],
+    "cds": [
+        {
+            "id": "V001",
+            "title": "Thriller",
+            "artist": "Michael Jackson"
+        },
+        {
+            "id": "V002",
+            "title": "Back in Black",
+            "artist": "AC/DC"
+        },
+        {
+            "id": "V003",
+            "title": "The Dark Side of the Moon",
+            "artist": "Pink Floyd"
+        },
+        {
+            "id": "V004",
+            "title": "The Eminem Show",
+            "artist": "Eminem"
+        },
+        {
+            "id": "V005",
+            "title": "Jagged Little Pill",
+            "artist": "Alanis Morissette"
+        }
+    ]
+}
