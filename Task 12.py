@@ -4,7 +4,8 @@ class ComplexNumber:
         self.b = b
         self.c = c
         self.d = d
-        print(f"Complex Number 1: {a} + {b}i\nComplex Number 2: {c} + {d}i")
+        print(f"Complex Number 1: {self.format_complex(self.a, self.b)}"
+              f"\nComplex Number 2: {self.format_complex(self.c, self.d)}")
 
     def format_complex(self, real, ima):
         if real < 0 < ima:
@@ -34,10 +35,12 @@ class ComplexNumber:
     def __eq__(self, other):
         if self.a == self.c:
             return f"The real parts of the complex numbers " \
-                   f"'{self.a}+{self.b}i' and the '{self.c}+{self.d}i' are equal"
+                   f"'{self.format_complex(self.a, self.b)}' and the " \
+                   f"'{self.format_complex(self.c, self.d)}' are equal"
         elif self.b == self.d:
             return f"The complex parts of the complex numbers " \
-                   f"'{self.a}+{self.b}i' and the '{self.c}+{self.d}i' are equal"
+                   f"'{self.format_complex(self.a, self.b)}' and the " \
+                   f"'{self.format_complex(self.c, self.d)}' are equal"
         else:
             return f"The complex numbers '{self.format_complex(self.a, self.b)}' " \
                    f"and '{self.format_complex(self.c, self.d)}' are not equal."
