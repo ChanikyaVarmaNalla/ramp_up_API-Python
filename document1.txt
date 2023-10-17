@@ -4,6 +4,7 @@ We are now on the third line of this text file
 Add text to the file content
 This is the fifth line, and we're halfway there
 Adding more content to make a 10-line document
+The file content add text to
 This is the seventh line in our text file
 Only two more lines to go to reach our goal
 We're almost done, this is the ninth line
