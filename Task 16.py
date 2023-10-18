@@ -39,12 +39,12 @@ while True:
     choice = input("Enter your choice: ")
 
     if choice == '1':
-        item = input("Enter the element to enqueue: ")
-        queue.enqueue(item)
+        it = input("Enter the element to enqueue: ")
+        queue.enqueue(it)
     elif choice == '2':
-        item = queue.dequeue()
-        if item:
-            print(f"Dequeued element: {item}")
+        it = queue.dequeue()
+        if it:
+            print(f"Dequeued element: {it}")
     elif choice == '3':
         print(f"Size of the queue: {queue.size()}")
     elif choice == '4':
